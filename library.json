@@ -3,7 +3,7 @@
   "description": "Odometer (http://github.hubspot.com/odometer/)",
   "majorVersion": 1,
   "minorVersion": 0,
-  "patchVersion": 0,
+  "patchVersion": 1,
   "runnable": 0,
   "author": "HubSpot",
   "license": "MIT",
@@ -18,7 +18,7 @@
     {
       "machineName": "FontAwesome",
       "majorVersion": 4,
-      "minorVersion": 1
+      "minorVersion": 3
     }
   ]
 }
