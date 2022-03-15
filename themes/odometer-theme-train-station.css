@@ -1,4 +1,4 @@
-@import 'font-economica.css';
+@import url("//fonts.googleapis.com/css?family=Economica");
 .odometer.odometer-auto-theme, .odometer.odometer-theme-train-station {
   display: -moz-inline-box;
   -moz-box-orient: vertical;

@@ -1,4 +1,4 @@
-@import 'font-rye.css';
+@import url("//fonts.googleapis.com/css?family=Rye");
 .odometer.odometer-auto-theme, .odometer.odometer-theme-slot-machine {
   display: -moz-inline-box;
   -moz-box-orient: vertical;
