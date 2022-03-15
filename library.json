@@ -3,7 +3,7 @@
   "description": "Odometer (http://github.hubspot.com/odometer/)",
   "majorVersion": 1,
   "minorVersion": 0,
-  "patchVersion": 3,
+  "patchVersion": 4,
   "runnable": 0,
   "author": "HubSpot",
   "license": "MIT",
